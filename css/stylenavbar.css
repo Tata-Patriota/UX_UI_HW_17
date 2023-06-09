@@ -189,7 +189,7 @@ h4 {
 
     .closedmenu {
         display: inline-block;
-        background-image: url(/img/Menu\ curve\ lines\ variant\ hand\ drawn\ outlines.png);
+        background-image: url("../img/Menu\ curve\ lines\ variant\ hand\ drawn\ outlines.png");
         background-size: contain;
         padding: 24px;
         background-repeat: no-repeat;

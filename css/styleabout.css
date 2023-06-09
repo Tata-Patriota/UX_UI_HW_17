@@ -83,7 +83,7 @@ body {
     left: 0;
     width: 100%;
     background-size: cover;
-    background-image: url(/img/MesquitaFMScropped.jpeg);
+    background-image: url("../img/MesquitaFMScropped.jpeg");
 }
 
 /* .aboutpicture {
