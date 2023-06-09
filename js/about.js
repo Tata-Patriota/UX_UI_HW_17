@@ -4,8 +4,6 @@ $(document).ready(function () {
     //SHOW NAV BAR ON SCROLL 
     // .scroll() creates an event when the user scrolls
     $(window).scroll(function () {
-        console.log('hi')
-
         // .scrollTop() retrieves vertical position of the scroll bar for the first element in a set of matched elements
         var scroll = $(window).scrollTop();
 
