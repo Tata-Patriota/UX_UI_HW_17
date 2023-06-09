@@ -108,7 +108,7 @@ body {
     max-width: 50%;
     height: 800px;
     width: 600px;
-    background-image: url("/img/younglady1.png");
+    background-image: url("../img/younglady1.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
